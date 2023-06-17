@@ -1,0 +1,15 @@
+/Users/amirbekgafurov/Desktop/SoftClub/C#/Exam_1/bin/Debug/net7.0/Exam_1
+/Users/amirbekgafurov/Desktop/SoftClub/C#/Exam_1/bin/Debug/net7.0/Exam_1.deps.json
+/Users/amirbekgafurov/Desktop/SoftClub/C#/Exam_1/bin/Debug/net7.0/Exam_1.runtimeconfig.json
+/Users/amirbekgafurov/Desktop/SoftClub/C#/Exam_1/bin/Debug/net7.0/Exam_1.dll
+/Users/amirbekgafurov/Desktop/SoftClub/C#/Exam_1/bin/Debug/net7.0/Exam_1.pdb
+/Users/amirbekgafurov/Desktop/SoftClub/C#/Exam_1/obj/Debug/net7.0/Exam_1.csproj.AssemblyReference.cache
+/Users/amirbekgafurov/Desktop/SoftClub/C#/Exam_1/obj/Debug/net7.0/Exam_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirbekgafurov/Desktop/SoftClub/C#/Exam_1/obj/Debug/net7.0/Exam_1.AssemblyInfoInputs.cache
+/Users/amirbekgafurov/Desktop/SoftClub/C#/Exam_1/obj/Debug/net7.0/Exam_1.AssemblyInfo.cs
+/Users/amirbekgafurov/Desktop/SoftClub/C#/Exam_1/obj/Debug/net7.0/Exam_1.csproj.CoreCompileInputs.cache
+/Users/amirbekgafurov/Desktop/SoftClub/C#/Exam_1/obj/Debug/net7.0/Exam_1.dll
+/Users/amirbekgafurov/Desktop/SoftClub/C#/Exam_1/obj/Debug/net7.0/refint/Exam_1.dll
+/Users/amirbekgafurov/Desktop/SoftClub/C#/Exam_1/obj/Debug/net7.0/Exam_1.pdb
+/Users/amirbekgafurov/Desktop/SoftClub/C#/Exam_1/obj/Debug/net7.0/Exam_1.genruntimeconfig.cache
+/Users/amirbekgafurov/Desktop/SoftClub/C#/Exam_1/obj/Debug/net7.0/ref/Exam_1.dll

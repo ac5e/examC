@@ -1,0 +1,15 @@
+/Users/amirbekgafurov/Desktop/SoftClub/C#/Exam_1/task3/bin/Debug/net7.0/task3
+/Users/amirbekgafurov/Desktop/SoftClub/C#/Exam_1/task3/bin/Debug/net7.0/task3.deps.json
+/Users/amirbekgafurov/Desktop/SoftClub/C#/Exam_1/task3/bin/Debug/net7.0/task3.runtimeconfig.json
+/Users/amirbekgafurov/Desktop/SoftClub/C#/Exam_1/task3/bin/Debug/net7.0/task3.dll
+/Users/amirbekgafurov/Desktop/SoftClub/C#/Exam_1/task3/bin/Debug/net7.0/task3.pdb
+/Users/amirbekgafurov/Desktop/SoftClub/C#/Exam_1/task3/obj/Debug/net7.0/task3.csproj.AssemblyReference.cache
+/Users/amirbekgafurov/Desktop/SoftClub/C#/Exam_1/task3/obj/Debug/net7.0/task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirbekgafurov/Desktop/SoftClub/C#/Exam_1/task3/obj/Debug/net7.0/task3.AssemblyInfoInputs.cache
+/Users/amirbekgafurov/Desktop/SoftClub/C#/Exam_1/task3/obj/Debug/net7.0/task3.AssemblyInfo.cs
+/Users/amirbekgafurov/Desktop/SoftClub/C#/Exam_1/task3/obj/Debug/net7.0/task3.csproj.CoreCompileInputs.cache
+/Users/amirbekgafurov/Desktop/SoftClub/C#/Exam_1/task3/obj/Debug/net7.0/task3.dll
+/Users/amirbekgafurov/Desktop/SoftClub/C#/Exam_1/task3/obj/Debug/net7.0/refint/task3.dll
+/Users/amirbekgafurov/Desktop/SoftClub/C#/Exam_1/task3/obj/Debug/net7.0/task3.pdb
+/Users/amirbekgafurov/Desktop/SoftClub/C#/Exam_1/task3/obj/Debug/net7.0/task3.genruntimeconfig.cache
+/Users/amirbekgafurov/Desktop/SoftClub/C#/Exam_1/task3/obj/Debug/net7.0/ref/task3.dll
